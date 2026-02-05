@@ -18,6 +18,7 @@ Notable Java projects:
 The above should suffice to demonstrate my artistry and capacity as developer. However, I also have an assortment of smaller projects, which I consider complete and mostly not needing of updates:
 * [hash-that-set](https://github.com/A248/hash-that-set), Rust library to hash a HashSet/HashMap itself
 * [bank-data](https://github.com/A248/bank-data)
+* [data-sifter](https://github.com/A248/data-sifter), helpful to run SQL queries on your CSV homework dataset
 * [rust-maven-proxy](https://github.com/A248/rust-maven-proxy)
 * [polymorph](https://github.com/A248/polymorph-rs) a rust library
 * [ExecuteEverywhereReloaded](https://github.com/A248/ExecuteEverywhereReloaded), a reboot of another Minecraft plugin
