@@ -1,7 +1,7 @@
 
 ### Anand Beh
 
-Here's what's notable from my efforts as software artist -- or software developer if you prefer.
+Here's what's notable from my efforts as software artist.
 
 Going forward, I am switching away from Github, so some projects in this list are located on codeberg.
 
@@ -15,12 +15,12 @@ Notable Java projects:
 * [MorePaperLib](https://github.com/A248/MorePaperLib) - lets Bukkit developers support Spigot/Paper/Folia all at once
 * [SolidInjector](https://github.com/A248/SolidInjector) - lightweight, standards-compliant dependency injection using reflection
 
-The above should suffice to demonstrate my artistry and capacity as developer. However, I also have an assortment of smaller projects, which I consider complete and mostly not needing of updates:
+The above should suffice to demonstrate my capacity as developer. However, I also have an assortment of smaller projects, which I consider complete and mostly not needing of updates:
 * [hash-that-set](https://github.com/A248/hash-that-set), Rust library to hash a HashSet/HashMap itself
 * [bank-data](https://github.com/A248/bank-data)
 * [data-sifter](https://github.com/A248/data-sifter), helpful to run SQL queries on your CSV homework dataset
 * [rust-maven-proxy](https://github.com/A248/rust-maven-proxy)
-* [polymorph](https://github.com/A248/polymorph-rs) a rust library
+* [polymorph-rs](https://github.com/A248/polymorph-rs)
 * [ExecuteEverywhereReloaded](https://github.com/A248/ExecuteEverywhereReloaded), a reboot of another Minecraft plugin
 * [AdvancedBanConverter](https://github.com/A248/AdvancedBanConverter)
 * [ThreadReportPlugin](https://github.com/A248/ThreadReportPlugin), a Minecraft plugin to help administrators gather thread dumps
