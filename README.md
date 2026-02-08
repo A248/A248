@@ -7,7 +7,7 @@ Going forward, I am switching away from Github, so some projects in this list ar
 
 Notable Rust projects:
 * [slotpoller](https://codeberg.org/A248/slotpoller) - fastest futures collector in the Rust ecosystem, bounded and lock-free design
-* [Javoxide](https://codeberg.org/A248/javoxide) - code generator for Java/Rust interop that replicates the Java type system in Rust
+* [javoxide](https://codeberg.org/A248/javoxide) - code generator for Java/Rust interop that replicates the Java type system in Rust
 
 Notable Java projects:
 * [DazzleConf](https://github.com/A248/DazzleConf) - an incredible configuration library based on type-safe interfaces
